@@ -9,7 +9,8 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=9) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=10) |
 | Build image and push to Azure Container Registry | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=11) |
-| Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-acr-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=12) |
+| Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-acr-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=12) 
+prueba|
 
 # Contributing
 
